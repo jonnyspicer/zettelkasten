@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "a556859fa6d5bd10",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc7e246ae8ad9328",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/AI Alignment.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "738f0a71de698ebc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d2668b07d10b269",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00910349248d0c2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d7eb7f3a3894a1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#programming",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9319a7119e9e55a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b58c929633480f55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c020b760295863ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zettelkasten/AI Alignment.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3ad0f6303a7498c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "afe0d4fbda9522d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zettelkasten/AI Alignment.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cc7e246ae8ad9328",
+  "lastOpenFiles": [
+    "Zettelkasten/AI Alignment.md",
+    "Templates/Simple Zettel.md",
+    "Files/Pasted image 20220409155744.png",
+    "Zettelkasten/Wicked Problems.md",
+    "Zettelkasten/Attribute Substitution.md",
+    "Zettelkasten/Goodhart's Law.md",
+    "Zettelkasten/Brier Score.md",
+    "Zettelkasten/Eliciting Latent Knowledge.md",
+    "Zettelkasten/Autocorrelation.md",
+    "Zettelkasten/P-Hacking.md"
+  ]
+}
