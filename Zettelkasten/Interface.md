@@ -1,6 +1,6 @@
 20220402:1709
 Tags: #computing 
-Backlinks: [[Go(lang)]] [[C Sharp]] [[Object-Oriented Programming]]
+Backlinks: [[Go(lang)]] [[C Sharp]] [[Object-Oriented]]
 # Interface
 
 

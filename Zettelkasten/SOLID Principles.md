@@ -1,6 +1,6 @@
 20220402:1710
 Tags: #computing 
-Backlinks: [[Object-Oriented Programming]]
+Backlinks: [[Object-Oriented]]
 # SOLID Principles
 
 
