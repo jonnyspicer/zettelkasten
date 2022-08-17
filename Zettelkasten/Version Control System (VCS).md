@@ -7,4 +7,4 @@ Backlinks: [[Git]]
 
 
 ---
-# References@
+# References
