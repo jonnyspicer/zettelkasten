@@ -8,3 +8,5 @@ Backlinks:
 
 ---
 # References
+
+[🌎 Scott Alexander on ELK And The Problem Of Truthful AI](ttps://astralcodexten.substack.com/p/elk-and-the-problem-of-truthful-ai)
